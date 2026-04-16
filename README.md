@@ -58,7 +58,7 @@ The dataset includes the following key features:
 ## 📊 Key Insights  
 - Customers with **month-to-month contracts** have the highest churn rate.  
 - **Higher monthly charges** are linked with greater churn probability.  
-  - Customers with **longer tenure** show higher loyalty.  
+- Customers with **longer tenure** show higher loyalty.  
 
 ---
 
