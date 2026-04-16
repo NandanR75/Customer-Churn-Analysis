@@ -81,12 +81,9 @@ The dataset includes the following key features:
 ---
 
 ## 📈 Dashboard Highlights  
-- Overview of total customers and churn percentage  
-- Churn distribution by gender, senior citizens, and contract type  
+- Overview of total customers and churn percentage    
 - Analysis of monthly charges vs. tenure  
-- Comparison of churn behavior by internet and phone services  
-- Revenue impact of retained vs. lost customers  
-
+ - Revenue impact of retained vs. lost customers  
 
 ---
 
