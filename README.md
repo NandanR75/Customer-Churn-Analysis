@@ -66,9 +66,7 @@ The dataset includes the following key features:
 
 ## 💡 Recommendations  
 - Offer **discounts and loyalty rewards** to long-term customers.  
-- Improve **technical support** and **service quality** for fiber optic users.  
-- Encourage **long-term contracts** with promotional benefits.  
-- Provide **customized plans** for senior citizens and low-tenure customers.  
+- Improve **technical support** and **service quality** for fiber optic users.    
 - Use **predictive analytics** to identify at-risk customers early.  
 
 ---
